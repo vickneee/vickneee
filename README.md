@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript and Web Design.
+I am Web Development Student.
+
+- 🌱 I’m currently learning JavaScript, Node.js, React.js and Web Design.
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
