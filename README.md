@@ -2,7 +2,7 @@
 
 I am Web Development Student.
 
-🌱 I’m currently learning JavaScript, Node.js, React.js, Python, SQL, MySQL, and MongoDB.
+🌱 I’m currently learning JavaScript, Node.js, React.js, Python, SQL, MySQL, and MongoDB. \
 ✨ I am interested in Web Design.
 
 <!--
