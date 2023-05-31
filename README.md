@@ -2,8 +2,8 @@
 
 I am Web Development Student.
 
-- 🌱 I’m currently learning JavaScript, Node.js, React.js, Python, SQL, MySQL and MongoDB. 
-- ✨ I am intrested about Web Design.
+🌱 I’m currently learning JavaScript, Node.js, React.js, Python, SQL, MySQL, and MongoDB.
+✨ I am interested in Web Design.
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
