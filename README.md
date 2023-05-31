@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Software Development Student.
+I am Web Development Student.
 
 - 🌱 I’m currently learning JavaScript, Node.js, React.js, Python and Web Design.
 
