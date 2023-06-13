@@ -2,14 +2,14 @@
 
 I am Web Development Student.
 
-🌱 I’m currently learning CSS, JavaScript, Node.js, and all that is related to React.js. 
+🌱 I'm currently learning CSS, JavaScript, Node.js, and everything related to React.js.
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 🔥 Web design draws my attention. Right now I'm exploring the Figma (software).
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
