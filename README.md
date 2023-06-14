@@ -3,7 +3,11 @@
 
 I am Web Development Student.
 
-🌱 I'm currently learning CSS, JavaScript, Node.js, and everything related to React.js.
+## 🌱 I'm currently learning:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+
+## and everything related to:
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
