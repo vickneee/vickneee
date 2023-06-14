@@ -8,7 +8,7 @@ I am Web Development Student.
 
 ## 🛠️ My skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,tailwind,js,py,mysql,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,tailwind,py,mysql,netlify)](https://skillicons.dev)
 
 
 <!--
