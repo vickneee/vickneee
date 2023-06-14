@@ -2,11 +2,6 @@
 
 I am Web Development Student.
 
-## 🌱 I'm currently learning:
-
-[![My Skills](https://skillicons.dev/icons?i=sass,js,react,nodejs,figma)](https://skillicons.dev)
-
-
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
