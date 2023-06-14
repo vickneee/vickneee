@@ -7,7 +7,8 @@ I am Web Development Student.
 
 ## My skills 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,react,tailwind,py,mysql,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=![sublime-text](https://github.com/vickneee/vickneee/assets/93821265/bed5a8ae-7ee5-43d1-80f9-f35174935a4d),
+git,github,html,css,js,nodejs,react,tailwind,py,mysql,netlify)](https://skillicons.dev)
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
