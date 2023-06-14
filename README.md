@@ -4,7 +4,7 @@ I am Web Development Student.
 
 ## 🌱 I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,sass,react,redux,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,sass,react,tailwind,materialui)](https://skillicons.dev)
 
 ## 🛠️ My skills
 
