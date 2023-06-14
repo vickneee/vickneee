@@ -6,7 +6,7 @@ I am Web Development Student.
 
 ## My skills 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,js,nodejs,react,taiwind,py,mysql,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,js,nodejs,react,tailwind,py,mysql,netlify)](https://skillicons.dev)
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
