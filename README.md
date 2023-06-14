@@ -6,7 +6,7 @@ I am Web Development Student.
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs)](https://skillicons.dev)
 
-## My other skills
+## My skills
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,py,mysql,netlify)](https://skillicons.dev)
 
 
