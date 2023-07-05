@@ -1,6 +1,6 @@
 ## Hi 👋,
 
-I am Victoria, a web development student.
+I am Victoria, a web development student at Varia.
 
 ## Tools and Languages: 
 
