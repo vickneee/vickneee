@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi 👋,
 
-I am Web Development Student.
+I am Victoria, a web development student.
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
