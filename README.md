@@ -2,6 +2,10 @@
 
 I am Victoria, a web development student.
 
+## Tools and Languages: 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js)](https://skillicons.dev)
+
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
