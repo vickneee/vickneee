@@ -2,7 +2,7 @@
 
 I am Victoria, a web development student at Varia.
 
-## Tools and Languages: 
+### Tools and Languages: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js)](https://skillicons.dev)
 
