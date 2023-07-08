@@ -8,7 +8,7 @@ I am Victoria. I am an enthusiastic web development student who places a lot of 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,html,css,scss,js,react,tailwind,py,cpp,nodejs,mysql,netlify)](https://skillicons.dev)
 
---
+---
 ### Visit Count:
 [![](https://visitcount.itsvg.in/api?id=vickneee&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
