@@ -4,7 +4,7 @@ I am Victoria. I am an enthusiastic web development student who places a lot of 
 
 - 🌱 I’m currently learning Figma software.
 
-### Tools and Languages: 
+### Tools and Tech Skills: 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,html,css,scss,js,react,tailwind,py,cpp,nodejs,mysql,netlify)](https://skillicons.dev)
 
