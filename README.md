@@ -6,7 +6,7 @@ I am Victoria. I am an enthusiastic web development student who places a lot of 
 
 ### Tools and Languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,js,react,tailwind,py,cpp,nodejs,mysql,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= vscode, figma,git,github,html,css,scss,js,react,tailwind,py,cpp,nodejs,mysql,netlify)](https://skillicons.dev)
 
 <!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
