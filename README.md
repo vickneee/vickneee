@@ -6,7 +6,9 @@ I am Victoria. I am an enthusiastic web development student who places a lot of 
 
 ## Tools and Tech Skills: 
 
-![Static Badge](https://img.shields.io/badge/webstorm-black) ![Static Badge](https://img.shields.io/badge/webstorm-%23000000)
+![Static Badge](https://img.shields.io/badge/Sublime%20Text-%23FF9800)
+![Static Badge](https://img.shields.io/badge/Webstorm-black) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000)
+
 
 
 
