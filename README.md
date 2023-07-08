@@ -1,8 +1,8 @@
-## Hi there 👋,
+# Hi there 👋,
 
 I am Victoria. I am an enthusiastic web development student who places a lot of emphasis on developing user-friendly websites and applications. I'm excited to start this path of creating digital experiences.
 
-- 🌱 I’m currently learning Figma software.
+- 🌱 I’m currently learning Figma software and deepening my skill in SCSS, JS, and React. 
 
 ## Tools and Tech Skills: 
 
