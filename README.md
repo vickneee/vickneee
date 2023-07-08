@@ -1,10 +1,10 @@
-## Hi there 👋,
+# Hi there 👋,
 
 I am Victoria. I am an enthusiastic web development student who places a lot of emphasis on developing user-friendly websites and applications. I'm excited to start this path of creating digital experiences.
 
 - 🌱 I’m currently learning Figma software.
 
-### Tools and Tech Skills: 
+## Tools and Tech Skills: 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,html,css,scss,js,react,tailwind,py,cpp,nodejs,mysql,netlify)](https://skillicons.dev)
 
