@@ -10,6 +10,7 @@ I am Victoria. I am an enthusiastic web development student who places a lot of 
 ![Static Badge](https://img.shields.io/badge/Webstorm-black) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E) ![Static Badge](https://img.shields.io/badge/Git-%23F05032) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6) ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699) ![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-%2334e4fb) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4) ![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C) ![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1)
 ![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
 
+---
 ## 
 ### Random Developer Quote 🕊️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
