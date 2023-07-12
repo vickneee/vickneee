@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ### About Me 👩‍💻
-I am Victoria. I am an enthusiastic software development student. I'm looking for information on UI and UX design right now. I'm learning how to use Figma, Webflow, and Framer software to create user interfaces that are simple to use and suited to the user's tastes and needs.
+I am Victoria. I am an enthusiastic software development student. I'm looking for information on UI and UX design right now. I'm learning how to use Figma and Webflow software to create user interfaces that are simple to use and suited to the user's tastes and needs.
 
-- 🌱 I'm currently learning Figma, Webflow, and Framer software and improving my CSS, SCSS, JS, React, and Node.js skills.
+- 🌱 I'm currently learning Figma and Webflow software and improving my CSS, SCSS, JS, React, and Node.js skills.
 
 ##
 ### Tools and Tech Skills: 
