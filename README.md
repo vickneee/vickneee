@@ -5,6 +5,7 @@ I am Victoria. I am an enthusiastic software development student. I'm looking fo
 
 - 🌱 I'm currently learning Figma software and improving my CSS, SCSS, JS, React, and Node.js skills.
 
+
 ##
 ### Tools and Tech Skills: 
 ![Static Badge](https://img.shields.io/badge/Sublime%20Text-%23FF9800) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
