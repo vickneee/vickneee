@@ -3,7 +3,7 @@
 ### About Me 👩‍💻
 I am Victoria. I am an enthusiastic software development student. I'm looking for information on UI and UX design. I'm learning how to use Figma software to create user interfaces that are simple to use and suited to the user's tastes and needs.
 
-- 🌱 I'm currently learning React Native and improving my CSS, JS, React, and Node.js skills.
+- 🌱 Along with improving my CSS, JS, React, and Node.js skills, I'm currently learning React Native.
 
 ##
 ### Tools and Tech Skills: 
