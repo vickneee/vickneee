@@ -12,8 +12,7 @@ I am Victoria. I am an enthusiastic software development student. I'm looking fo
 <!--
 ![Static Badge](https://img.shields.io/badge/C%23-%23280068) 
 -->
-![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1)
-![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
+![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/MongoDB-%234479A1) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) ![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
 
 ## 
 ### Random Developer Quote 🕊️
