@@ -1,10 +1,11 @@
 # Hi there 👋
 
 ### About Me 👩‍💻
-I am Victoria. I am an enthusiastic software development student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet.
+I am Victoria. I am an enthusiastic software development student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
+
 
 - 🌱 Along with improving my CSS, JS, React, and Node.js skills, I'm currently learning React Native, Express.js and MongoDB.
--  🔜 I'm planning to learn TypeScript and Next.js. Also, code testing programs are of interest to me.
+-  🔜 I'm planning to learn TypeScript and Next.js.
 
 
 ### Tools and Tech Skills: 
