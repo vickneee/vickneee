@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About Me 👩‍💻
-I am Victoria. I am an enthusiastic software development student. I'm looking for information on UI and UX design to create user interfaces that are simple to use and suited to the user's tastes and needs.
+I am Victoria. I am an enthusiastic software development student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet.
 
 - 🌱 Along with improving my CSS, JS, React, and Node.js skills, I'm currently learning React Native, Express.js and MongoDB.
 -  🔜 I'm planning to learn TypeScript and Next.js. Also, code testing programs are of interest to me.
