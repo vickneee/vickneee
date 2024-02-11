@@ -1,11 +1,12 @@
 # Hi there 👋
 
 ### About Me 👩‍💻
-I am Victoria. I am an enthusiastic software development student. I'm looking for information on UI and UX design. I'm learning how to use Figma software to create user interfaces that are simple to use and suited to the user's tastes and needs.
+I am Victoria. I am an enthusiastic software development student. I'm looking for information on UI and UX design to create user interfaces that are simple to use and suited to the user's tastes and needs.
 
 - 🌱 Along with improving my CSS, JS, React, and Node.js skills, I'm currently learning React Native, Express.js and MongoDB.
+-  🔜 I'm planning to learn TypeScript and Next.js. Also, code testing programs are of interest to me.
 
-##
+
 ### Tools and Tech Skills: 
 ![Static Badge](https://img.shields.io/badge/Sublime%20Text-%23FF9800) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
 ![Static Badge](https://img.shields.io/badge/WebStorm-%23181717) ![Static Badge](https://img.shields.io/badge/PyCharm-%23181717) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E) ![Static Badge](https://img.shields.io/badge/Git-%23F05032) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717) ![Static Badge](https://img.shields.io/badge/Markdown-%23181717) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-%2361DAFB) ![Static Badge](https://img.shields.io/badge/TailWind-%231CAABB) ![Static Badge](https://img.shields.io/badge/React%20Native-%2361DBFB) ![Static Badge](https://img.shields.io/badge/Expo-%23181717) ![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) ![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
