@@ -4,7 +4,7 @@
 I am Victoria. I am an enthusiastic software development student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
 
 
-- 🌱 Along with improving my React.js and Node.js skills, I'm currently learning Express.js and MongoDB (MERN Stack). Also React Native.
+- 🌱 Along with improving my React.js and Node.js skills, I'm currently learning MongoDB and Express.js (MERN Stack). Also React Native.
 -  🔜 I'm planning to learn TypeScript and Next.js.
 
 
