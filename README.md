@@ -10,7 +10,7 @@ I am Victoria. I am an enthusiastic software development student. UI/UX design i
 
 ### Tools and Tech Skills: 
 ![Static Badge](https://img.shields.io/badge/Sublime%20Text-%23FF9800) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
-![Static Badge](https://img.shields.io/badge/WebStorm-%23181717) ![Static Badge](https://img.shields.io/badge/PyCharm-%23181717) ![Static Badge](https://img.shields.io/badge/Git-%23F05032) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717) ![Static Badge](https://img.shields.io/badge/Markdown-%23181717) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-%2361DAFB) ![Static Badge](https://img.shields.io/badge/TailWind-%231CAABB) ![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) ![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
+![Static Badge](https://img.shields.io/badge/WebStorm-%23181717) ![Static Badge](https://img.shields.io/badge/PyCharm-%23181717) ![Static Badge](https://img.shields.io/badge/Git-%23F05032) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717) ![Static Badge](https://img.shields.io/badge/Markdown-%23181717) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-%2361DAFB) ![Static Badge](https://img.shields.io/badge/TailWind-%231CAABB) ![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/Express.js-%23181717) ![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) ![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
 
 <!--
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E)
@@ -19,7 +19,6 @@ I am Victoria. I am an enthusiastic software development student. UI/UX design i
 ![Static Badge](https://img.shields.io/badge/React%20Native-%2361DBFB) 
 ![Static Badge](https://img.shields.io/badge/Expo-%23181717)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
-![Static Badge](https://img.shields.io/badge/Express.js-%23181717) 
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D)
 -->
 
