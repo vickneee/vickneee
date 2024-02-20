@@ -20,12 +20,12 @@ I am Victoria. I am an enthusiastic software development student. UI/UX design i
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D)
 -->
-
+<!--
 ## 
 ### Random Developer Quote 🕊️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!--
+
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔥 Web design draws my attention. Right now, I'm exploring Figma (software).
