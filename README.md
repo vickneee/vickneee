@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ### About Me 👩‍💻
-I am Victoria. I am an enthusiastic software development student. UI/UX design is something I'm quite interested in (example Figma software), although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
+I am Victoria. I am an enthusiastic software development student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
 
 - 🌱 Along with improving my React.js, React Native, and Node.js skills, I'm currently learning MongoDB (MERN Stack).
--  🔜 I'm planning to learn TypeScript and Next.js.
+-  🔜 I'm planning to learn TypeScript and Next.js and Figma software.
 
 <!--
 ### Tools and Tech Skills: 
