@@ -6,6 +6,9 @@ I am Victoria. I am an enthusiastic software development student. UI/UX design i
 - 🌱 Along with improving my React.js skills, I'm currently learning TypeScript and Tailwind CSS.
 -  🔜 I'm planning to learn Next.js and Figma software.
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!--
 ### Tools and Tech Skills: 
 ![Static Badge](https://img.shields.io/badge/Sublime%20Text-%23FF9800) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
