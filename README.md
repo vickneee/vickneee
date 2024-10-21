@@ -3,7 +3,7 @@
 ### About Me 👩‍💻
 I am Victoria. I am an enthusiastic software development student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
 
-- 🌱 Along with improving my React.js skills, I'm currently learning Python and Databases.
+- 🌱 Along with improving my JavaScript skills, I'm currently learning Python and Databases.
 -  🔜 I'm planning to learn Figma software.
 
 <!--START_SECTION:badges-->
