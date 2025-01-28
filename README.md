@@ -27,6 +27,8 @@ I am Victoria. I am an enthusiastic software engineering student. UI/UX design i
 ### Random Developer Quote 🕊️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
