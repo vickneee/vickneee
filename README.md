@@ -3,8 +3,9 @@
 ### About Me 👩‍💻
 I am Victoria. I am an enthusiastic software engineering student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
 
-- 🌱 Currently, I’m improving my JavaScript and React skills, learning Node.js, Express.js, and REST APIs, and exploring how to use Figma software.
--  🔜 I’m planning to learn TypeScript and Java next.
+- 🌱 Currently, I’m improving my JavaScript and React skills, learning Node.js, Express.js, and REST APIs.
+- 🔥 Web design draws my attention. Right now, I'm exploring Figma (software).
+-  🔜 I’m planning to learn Java and TypeScript.
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
@@ -22,11 +23,17 @@ I am Victoria. I am an enthusiastic software engineering student. UI/UX design i
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D)
 -->
-<!--
 ## 
 ### Random Developer Quote 🕊️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaedAbukar&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaedAbukar&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaedAbukar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!--
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔥 Web design draws my attention. Right now, I'm exploring Figma (software).
