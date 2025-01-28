@@ -23,11 +23,6 @@ I am Victoria. I am an enthusiastic software engineering student. UI/UX design i
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D)
 -->
-## 
-### Random Developer Quote 🕊️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
