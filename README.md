@@ -28,9 +28,9 @@ I am Victoria. I am an enthusiastic software engineering student. UI/UX design i
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaedAbukar&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaedAbukar&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaedAbukar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!--
