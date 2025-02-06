@@ -1,11 +1,10 @@
 # Hi there 👋
 
 ### About Me 👩‍💻
-I am Victoria. I am an enthusiastic software engineering student. UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
+Hi, I'm Victoria, and I'm studying software engineering at Metropolia Applied Sciences. I'm passionate about building complete applications and have a strong interest in full-stack development. I also appreciate the importance of UI/UX design for creating user-friendly software and the critical role of code testing in ensuring quality.
 
-- 🌱 Currently, I’m improving my JavaScript and React skills, learning Node.js, Express.js, and REST APIs.
-- 🔥 Web design draws my attention. Right now, I'm exploring Figma (software).
--  🔜 I’m planning to learn Java and TypeScript.
+- 🌱 Currently, I’m improving my JavaScript and React skills, learning Node.js, Express.js, and REST APIs. This semester, we're building a full-stack MERN (MongoDB, Express.js, React, Node.js) project as a course project.
+-  🔜 Next spring semester, which begins in March, we're focusing on learning Java as part of our Object-oriented Programming course.
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
