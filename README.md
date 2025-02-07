@@ -7,10 +7,11 @@ Hi, I'm Victoria, and I'm studying software engineering at [Metropolia Universit
 -  🔜 Next spring semester, which begins in March, we're focusing on learning Java as part of our Object-oriented Programming and Programming Project courses.
 
 <details>
-# 📊 GitHub Stats:
+<summary># 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
