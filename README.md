@@ -8,9 +8,13 @@ Hi, I'm Victoria, and I'm studying software engineering at [Metropolia Universit
 
 <details>
 <summary>GitHub Stats:</summary>
-![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
+  
+![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </details>
 
 
