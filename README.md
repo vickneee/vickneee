@@ -6,10 +6,12 @@ Hi, I'm Victoria, and I'm studying software engineering at [Metropolia Universit
 - 🌱 I'm currently improving my JavaScript and React skills, and learning Node.js, Express.js, and REST APIs in my Web Development and Web Project courses. This semester, we're building a full-stack MERN (MongoDB, Express.js, React, Node.js) application as our course project.
 -  🔜 Next spring semester, which begins in March, we're focusing on learning Java as part of our Object-oriented Programming and Programming Project courses.
 
-GitHub Stats:
+<details>
+<summary>GitHub Stats:</summary>
 ![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
 
 
 <!--START_SECTION:badges-->
