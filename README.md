@@ -14,12 +14,6 @@ Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia Univers
 
 </details>
 
-<details>
-<summary>GitHub Stats:</summary>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-</details>
-
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 <!--
