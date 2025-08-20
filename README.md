@@ -3,9 +3,6 @@
 ### About Me 👩‍💻
 Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en). I'm passionate about building complete applications and have a strong interest in full-stack development. I also appreciate the importance of UI/UX design for creating user-friendly software and the critical role of code testing in ensuring quality.
 
-- 🌱 I'm currently improving my JavaScript and React skills, and learning Node.js, Express.js, and REST APIs in my Web Development and Web Project courses. This semester, we're building a full-stack MERN (MongoDB, Express.js, React, Node.js) application as our course project.
--  🔜 Next spring semester, which begins in March, we're focusing on learning Java as part of our Object-oriented Programming and Programming Project courses.
-
 <details>
 <summary>Tools and Tech Skills:</summary>
 
