@@ -3,13 +3,11 @@
 ### About Me 👩‍💻
 Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en). I'm passionate about building complete applications and have a strong interest in full-stack development. I also appreciate the importance of UI/UX design for creating user-friendly software and the critical role of code testing in ensuring quality.
 
-<details>
 Tools and Tech Skills:
 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
 ![Static Badge](https://img.shields.io/badge/WebStorm-%23181717) ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000) ![Static Badge](https://img.shields.io/badge/PyCharm-%23181717) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E) ![Static Badge](https://img.shields.io/badge/Git-%23F05033) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717) ![Static Badge](https://img.shields.io/badge/Markdown-%23181717) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6) ![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/TailWind-%231CAABB) ![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/Express.js-%23181717) ![Static Badge](https://img.shields.io/badge/Postman-%23F05033) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) ![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D) ![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
 
-</details>
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
