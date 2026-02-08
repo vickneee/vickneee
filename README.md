@@ -5,8 +5,58 @@ Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia Univers
 
 Tools and Tech Skills:
 
+Programming Languages:
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
+![Static Badge](https://img.shields.io/badge/Python-%233776AB) 
+![Static Badge](https://img.shields.io/badge/Java-%23ED8B00) 
+
+Frontend & Web Development:
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26) 
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6) 
+![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB) 
+![Static Badge](https://img.shields.io/badge/TailWind-%231CAABB) 
+
+Backend Development:
+![Static Badge](https://img.shields.io/badge/Node.js-%23339933) 
+![Static Badge](https://img.shields.io/badge/Express.js-%23181717) 
+
+Databases:
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) 
+![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D) 
+
+Testing & Code Quality:
+![Static Badge](https://img.shields.io/badge/Postman-%23F05033) 
+![Jest](https://img.shields.io/badge/Jest-%23C21325)
+
+CI/CD:
+![Static Badge](https://img.shields.io/badge/Jenkins-blue) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue)
+
+Containerization & Deployment:
+![Docker](https://img.shields.io/badge/Docker-blue)
+
+UI/UX & User-Centered Design:
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E) 
+
+Version Control:
+![Static Badge](https://img.shields.io/badge/Git-%23F05033) 
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717)
+
+Deployment:
+![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
+![Render](https://img.shields.io/badge/Render-%23000000)
+
+Tools:
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
-![Static Badge](https://img.shields.io/badge/WebStorm-%23181717) ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-%23181717) ![Static Badge](https://img.shields.io/badge/PyCharm-%23181717) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E) ![Static Badge](https://img.shields.io/badge/Git-%23F05033) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717) ![Static Badge](https://img.shields.io/badge/Markdown-%23181717) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6) ![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/TailWind-%231CAABB) ![Static Badge](https://img.shields.io/badge/Node.js-%23339933) ![Static Badge](https://img.shields.io/badge/Express.js-%23181717) ![Static Badge](https://img.shields.io/badge/Postman-%23F05033) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) ![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D) ![Static Badge](https://img.shields.io/badge/Jenkins-blue) ![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
+![Static Badge](https://img.shields.io/badge/WebStorm-%23181717) 
+![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-%23181717) 
+![Static Badge](https://img.shields.io/badge/PyCharm-%23181717) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!--START_SECTION:badges-->
@@ -21,6 +71,7 @@ Tools and Tech Skills:
 ![Static Badge](https://img.shields.io/badge/React%20Native-%2361DBFB) 
 ![Static Badge](https://img.shields.io/badge/Expo-%23181717)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
+![Static Badge](https://img.shields.io/badge/Markdown-%23181717) 
 
 
 <details>
