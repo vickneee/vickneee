@@ -3,7 +3,7 @@
 ### About Me 👩‍💻
 Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en). I'm passionate about building complete applications and have a strong interest in full-stack development. I also appreciate the importance of UI/UX design for creating user-friendly software and the critical role of code testing in ensuring quality.
 
-Tools and Tech Skills:
+**Tools and Tech Skills:**
 
 Programming Languages:
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
