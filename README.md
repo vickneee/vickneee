@@ -65,8 +65,8 @@ Tools:
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23181717) 
 
 Project Management Tools:
-![Jira](https://img.shields.io/badge/Jira-%230052CC)
 ![Trello](https://img.shields.io/badge/Trello-%23007ACC)
+![Jira](https://img.shields.io/badge/Jira-%230052CC)
 
 <!--START_SECTION:badges
 
