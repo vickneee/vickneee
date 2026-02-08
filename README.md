@@ -53,6 +53,10 @@ Tools:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23181717) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23181717) 
 
+Project Management Tools:
+![Jira](https://img.shields.io/badge/Jira-%230052CC)
+![Trello](https://img.shields.io/badge/Trello-%23007ACC)
+
 <!--START_SECTION:badges
 
 -->
