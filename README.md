@@ -7,13 +7,13 @@ Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia Univers
 
 Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC)
 ![Python](https://img.shields.io/badge/Python-%233776AB) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00) 
 
 Frontend & Web Development:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC)
 ![React](https://img.shields.io/badge/React-%2361DAFB) 
 ![Tailwind CSS](https://img.shields.io/badge/TailWind%20CSS-%231CAABB) 
 
