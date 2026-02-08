@@ -6,52 +6,52 @@ Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia Univers
 **Tools and Tech Skills:**
 
 Programming Languages:
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
-![Static Badge](https://img.shields.io/badge/Python-%233776AB) 
-![Static Badge](https://img.shields.io/badge/Java-%23ED8B00) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
+![Python](https://img.shields.io/badge/Python-%233776AB) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00) 
 
 Frontend & Web Development:
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26) 
-![Static Badge](https://img.shields.io/badge/CSS-%231572B6) 
-![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB) 
-![Static Badge](https://img.shields.io/badge/TailWind-%231CAABB) 
+![HTML](https://img.shields.io/badge/HTML-%23E34F26) 
+![CSS](https://img.shields.io/badge/CSS-%231572B6) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC)
+![React](https://img.shields.io/badge/React-%2361DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/TailWind%20CSS-%231CAABB) 
 
 Backend Development:
-![Static Badge](https://img.shields.io/badge/Node.js-%23339933) 
-![Static Badge](https://img.shields.io/badge/Express.js-%23181717) 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933) 
+![Express.js](https://img.shields.io/badge/Express.js-%23181717) 
 
 Databases:
-![Static Badge](https://img.shields.io/badge/MySQL-%234479A1) 
-![Static Badge](https://img.shields.io/badge/MongoDB-%234DB33D) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234DB33D) 
 
 Testing & Code Quality:
-![Static Badge](https://img.shields.io/badge/Postman-%23F05033) 
+![Postman](https://img.shields.io/badge/Postman-%23F05033) 
 ![Jest](https://img.shields.io/badge/Jest-%23C21325)
 
 CI/CD:
-![Static Badge](https://img.shields.io/badge/Jenkins-blue) 
+![Jenkins](https://img.shields.io/badge/Jenkins-blue) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue)
 
 Containerization & Deployment:
 ![Docker](https://img.shields.io/badge/Docker-blue)
 
 UI/UX & User-Centered Design:
-![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E) 
 
 Version Control:
-![Static Badge](https://img.shields.io/badge/Git-%23F05033) 
-![Static Badge](https://img.shields.io/badge/GitHub-%23181717)
+![Git](https://img.shields.io/badge/Git-%23F05033) 
+![GitHub](https://img.shields.io/badge/GitHub-%23181717)
 
 Deployment:
-![Static Badge](https://img.shields.io/badge/Netlify-%2300C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7)
 ![Render](https://img.shields.io/badge/Render-%23000000)
 
 Tools:
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
-![Static Badge](https://img.shields.io/badge/WebStorm-%23181717) 
-![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-%23181717) 
-![Static Badge](https://img.shields.io/badge/PyCharm-%23181717) 
+![VisualStudio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
+![WebStorm](https://img.shields.io/badge/WebStorm-%23181717) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23181717) 
+![PyCharm](https://img.shields.io/badge/PyCharm-%23181717) 
 
 <!--START_SECTION:badges
 
