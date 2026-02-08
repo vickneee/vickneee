@@ -9,8 +9,7 @@ Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia Univers
 
 Mobile Development:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF)
-![Android](https://img.shields.io/badge/Android-%233DDC84)
-![iOS](https://img.shields.io/badge/iOS-%23000000)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB)
 
