@@ -5,14 +5,15 @@ Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia Univers
 
 **Tools and Tech Skills:**
 
-<!--START_SECTION:badges -->
+<!--START_SECTION:badges
 
 Mobile Development:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF)
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB)
-
+ -->
+ 
 Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC)
@@ -35,6 +36,7 @@ Databases:
 
 Testing & Code Quality:
 ![Postman](https://img.shields.io/badge/Postman-%23F05033) 
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325)
 
 CI/CD:
