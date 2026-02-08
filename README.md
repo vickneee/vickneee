@@ -5,7 +5,7 @@ Hi, I'm Victoria, and I'm studying `Software Engineering` at [Metropolia Univers
 
 **Tools and Tech Skills:**
 
-<!--START_SECTION:badges
+<!--START_SECTION:badges -->
 
 Mobile Development:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF)
@@ -13,8 +13,6 @@ Mobile Development:
 ![iOS](https://img.shields.io/badge/iOS-%23000000)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB)
-
--->
 
 Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
