@@ -36,6 +36,7 @@ Databases:
 
 Testing & Code Quality:
 ![Postman](https://img.shields.io/badge/Postman-%23F05033) 
+![ESLint](https://img.shields.io/badge/ESLint-%234B32C3)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325)
 
