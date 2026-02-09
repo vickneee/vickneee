@@ -47,7 +47,7 @@ CI/CD:
 Containerization & Deployment:
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7)
-![Render](https://img.shields.io/badge/Render-%2346E3B7)
+![Render](https://img.shields.io/badge/Render-%23000000)
 
 UI/UX & User-Centered Design:
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E) 
@@ -55,10 +55,6 @@ UI/UX & User-Centered Design:
 Version Control:
 ![Git](https://img.shields.io/badge/Git-%23F05033) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717)
-
-Deployment:
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7)
-![Render](https://img.shields.io/badge/Render-%23000000)
 
 Tools:
 ![VisualStudio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
