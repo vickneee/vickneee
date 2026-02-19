@@ -85,7 +85,7 @@ Project Management Tools:
 
 ## 📝 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&layout=compact&langs_count=5&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&layout=compact&langs_count=5&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 
 <!--START_SECTION:badges
