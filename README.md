@@ -71,6 +71,7 @@ Project Management Tools:
 
 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF) and ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84) to develop Android applications.
 
+<!--START_SECTION:
 
 <details>
 <summary>📊 GitHub Stats:</summary>
@@ -84,6 +85,8 @@ Project Management Tools:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&layout=compact&langs_count=15&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
 </details>
+
+-->
 
 <!--START_SECTION:badges
 
