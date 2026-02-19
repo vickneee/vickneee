@@ -69,7 +69,7 @@ Project Management Tools:
 
 ---
 
-- 🌱 I’m currently learning Kotlin and Android Studio to develop Android applications.
+🌱 I’m currently learning Kotlin and Android Studio to develop Android applications.
 
 <!--START_SECTION:badges
 
