@@ -67,6 +67,10 @@ Project Management Tools:
 ![Trello](https://img.shields.io/badge/Trello-%23007ACC)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC)
 
+---
+
+- 🌱 I’m currently learning Kotlin and Android Studio to develop Android applications.
+
 <!--START_SECTION:badges
 
 -->
