@@ -81,13 +81,15 @@ Project Management Tools:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</details>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&layout=compact&langs_count=5&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+
+
 
 ## 📝 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&layout=compact&langs_count=5&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&layout=compact&langs_count=5&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
-
+</details>
 <!--START_SECTION:badges
 
 -->
