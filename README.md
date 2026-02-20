@@ -71,9 +71,11 @@ Project Management Tools:
 
 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF) and ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84) to develop Android applications.
 
-<details>
- 
+---
+
 ## 📊 GitHub Stats
+
+<details>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vickneee&show_icons=true&theme=tokyonight&hide=stars,issues,contribs&count_private=true" alt="GitHub Stats" height="170" />
@@ -102,7 +104,10 @@ Project Management Tools:
 <!--START_SECTION:badges
 
 -->
-<!--END_SECTION:badges-->
+
+<!--END_SECTION:badges
+-->
+
 <!--
 ### Tools and Tech Skills: 
 ![Static Badge](https://img.shields.io/badge/Sublime%20Text-%23FF9800) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC)
@@ -115,16 +120,7 @@ Project Management Tools:
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23007ACC)
 ![Static Badge](https://img.shields.io/badge/Markdown-%23181717) 
 
-
-<details>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 **vickneee/vickneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🔥 Web design draws my attention. Right now, I'm exploring Figma (software).
 
 Here are some ideas to get you started:
 
