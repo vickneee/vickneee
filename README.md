@@ -74,7 +74,8 @@ Project Management Tools:
 <details>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=vickneee&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vickneee&show_icons=true&theme=tokyonight&v=1" />
+
 
   <img src="https://github-readme-stats.vercel.app/api?username=vickneee&show_icons=true&theme=tokyonight&hide=stars,issues,contribs&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vickneee&theme=tokyonight" alt="Top Languages" height="170" />
