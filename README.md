@@ -71,11 +71,9 @@ Project Management Tools:
 
 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF) and ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84) to develop Android applications.
 
----
-
-## 📊 GitHub Stats
-
 <details>
+ 
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vickneee&show_icons=true&theme=tokyonight&hide=stars,issues,contribs&count_private=true" alt="GitHub Stats" height="170" />
@@ -84,28 +82,7 @@ Project Management Tools:
 
 </details>
 
-<!--START_SECTION:
-
-<details>
-<summary>📊 GitHub Stats:</summary>
- 
-![](https://github-readme-stats.vercel.app/api?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vickneee&theme=react&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickneee&layout=compact&langs_count=15&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-
-</details>
-
--->
-
-<!--START_SECTION:badges
-
--->
-
-<!--END_SECTION:badges
+<!--SECTION:badges
 -->
 
 <!--
