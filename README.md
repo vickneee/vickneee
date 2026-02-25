@@ -16,8 +16,8 @@ Mobile Development:
  -->
  
 Programming Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00) 
 ![Python](https://img.shields.io/badge/Python-%233776AB) 
 
