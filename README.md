@@ -33,6 +33,7 @@ Backend Development:
 
 Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234DB33D) 
 
 Testing & Code Quality:
