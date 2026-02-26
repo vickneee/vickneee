@@ -36,6 +36,7 @@ Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234DB33D) 
 
 Testing & Code Quality:
+![REST API](https://img.shields.io/badge/REST-API-blue)
 ![Postman](https://img.shields.io/badge/Postman-%23F05033) 
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162)
