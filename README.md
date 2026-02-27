@@ -5,12 +5,11 @@ Hi, I'm Victoria, a **Software Engineering** student at [Metropolia University o
 
 ---
 **Hands-on Experience with Tools & Technologies:**
-
+<!--START_SECTION:badges
 Mobile Development:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84)
 
-<!--START_SECTION:badges
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB)
  -->
