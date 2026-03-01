@@ -77,9 +77,6 @@ Project Management Tools:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vickneee&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vickneee&theme=tokyonight&layout=compact" />
-</div>
 
 </details>
 
