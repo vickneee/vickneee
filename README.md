@@ -29,6 +29,7 @@ Frontend & Web Development:
 Backend Development:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23181717) 
+![REST API](https://img.shields.io/badge/REST-API-blue)
 
 Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1) 
@@ -36,7 +37,6 @@ Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234DB33D) 
 
 Testing & Code Quality:
-![REST API](https://img.shields.io/badge/REST-API-blue)
 ![Postman](https://img.shields.io/badge/Postman-%23F05033) 
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162)
