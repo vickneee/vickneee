@@ -16,9 +16,9 @@ Mobile Development:
  -->
  
 Programming Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
 ![Python](https://img.shields.io/badge/Python-%233776AB) 
 
 Frontend & Web Development:
