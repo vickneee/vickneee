@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About Me 👩‍💻
-Hi, I'm Victoria, a **Software Engineering** student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en). I'm passionate about building complete applications, with a strong interest in **front-end** and **full-stack development**. I enjoy improving **UI/UX design** to create clear, user-friendly interfaces. I also understand the importance of **testing and automation** to keep code reliable and high-quality. 
+Hi, I’m Victoria, a third-year **Software Engineering** student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en), majoring in **mobile application development** within the Information and Communication Technology program. I enjoy building complete applications and have a strong interest in **mobile**, **front-end**, and **full-stack development**. I like improving **UI/UX** to create clear and user-friendly interfaces. I also value **testing and automation** to keep code reliable and high quality. 
 
 ---
 **Hands-on Experience with Tools & Technologies:**
