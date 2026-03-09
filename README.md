@@ -44,8 +44,8 @@ Testing & Code Quality:
 ![Jest](https://img.shields.io/badge/Jest-%23C21325)
 
 CI/CD:
-![Jenkins](https://img.shields.io/badge/Jenkins-blue) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-blue) 
 
 Containerization & Deployment:
 ![Docker](https://img.shields.io/badge/Docker-blue)
