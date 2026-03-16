@@ -84,7 +84,7 @@ Project Management Tools:
 ---
 
 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF) and ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84) to develop Android applications.
-- ⚡ Fun fact: alsi I am learning ![Swift](https://img.shields.io/badge/Swift-%23FA7343) and ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB) to develop iOS apps.
+⚡ Fun fact: I am also learning ![Swift](https://img.shields.io/badge/Swift-%23FA7343) and ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB) to develop iOS apps.
 
 <!--SECTION:badges
 -->
